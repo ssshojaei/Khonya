@@ -1,0 +1,79 @@
+#window {
+  background-color: #121C26;
+}
+.btn {
+  background-color: rgba(255, 255, 255, .2);
+  border: none;
+  color: rgb(255, 255, 255);
+}
+.inp {
+  background: rgb(39, 46, 54);
+  border: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+  border-radius: 3px;
+  outline: none;
+}
+.inp:focus{
+    outline: none;
+}
+#main {
+  background-color: #121C26;
+  /*background-image:url('./bg.jpg');*/
+  background-size: cover;
+  background-position: center;
+}
+#img {
+  margin: 20px;
+  opacity: .8;
+  border-radius: 10px;
+  border: 3px solid rgba(0, 0, 0, 0.2);
+  /*box-shadow:5px 0px 5px 2px gray inset;*/
+  /*box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.49);*/
+}
+#bgimg {
+  background-image:url('./bg.jpg');
+  background-size: cover;
+  background-position: center;
+  /*opacity: .2;*/
+}
+.lbl {
+  color: rgba(255, 255, 255, .9);
+  font-family: "AvantGarde LT Medium, Vazir";
+  font-size: 12px;
+}
+.player_btn {
+  background: rgba(43, 134, 240, 0.9);
+  box-shadow: 0 0 3px rgba(0, 0, 0, .5);
+  border: none;
+  color: rgb(255, 255, 255);
+  margin: 10px 0px;
+  padding: 15px;
+  border-radius: 100%;
+}
+#bar {
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(17, 168, 255, 0.2);
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+.btn_list {
+  background-color: rgba(255, 255, 255, .3);
+  border: none;
+  color: rgb(255, 255, 255);
+}
+.icons {
+  color: rgb(255, 255, 255);
+}
+.theme {
+  background-color: #121C26;
+}
+.list_btn {
+  background-color: rgba(0, 0, 0, 0.04);
+  padding: 0;
+  margin: 0;
+  /*border: 0 solid rgba(0, 0, 0, 0);
+  border-radius: 0;*/
+}
+#left_menu {
+  
+}
